@@ -28,10 +28,10 @@ def calcular_volume():
     print(f'VOLUME = {calculo}')
     
 def calcular(raio):
-    pi = 3.14159
     if raio <= 0: 
         raise ValueError("Não existe volume de esfera com raio igual 0 ou negativo.")
-    
+
+    pi = 3.14159
     calcular = (4/3) * pi * raio ** 3 
     return calcular
 
