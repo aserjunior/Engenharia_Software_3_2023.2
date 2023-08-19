@@ -25,7 +25,7 @@ def calcular_volume():
     raio = int(input('Insira o valor do raio: '))
     
     calculo = calcular(raio)
-    return calculo 
+    print(f'VOLUME = {calculo}')
     
 def calcular(raio):
     pi = 3.14159
@@ -37,6 +37,6 @@ def calcular(raio):
 
 def main():
 
-    print(f'VOLUME = {calcular_volume()}')
+    calcular_volume()
 
 main()
