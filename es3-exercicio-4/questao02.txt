@@ -1,0 +1,4 @@
+A principal imagem relacionada ao Liskov Substitution Principle é a imagem de um pato (real)
+e um pato (de borracha). A explicação sobre ela é que mesmo que as duas parecem um pato e façam
+barulho como um pato. Uma delas precisa de bateria para funcionar e a outra não. Nesse caso, 
+ocorre um problema de abstração.

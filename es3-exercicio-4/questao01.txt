@@ -1,0 +1,2 @@
+O uso do nome Liskov se deve, a cientista da computação Barbara Liskov por ter formulado os principios
+de substituição de Liskov;
