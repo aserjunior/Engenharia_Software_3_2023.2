@@ -1,3 +1,5 @@
+package questao04;
+
 public class Quadrado {
     private Retangulo retangulo;
 
