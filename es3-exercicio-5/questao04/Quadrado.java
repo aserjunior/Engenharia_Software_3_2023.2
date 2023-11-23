@@ -10,7 +10,7 @@ public class Quadrado {
         retangulo.setAltura(lado);
     }
 
-    public int área() {
-        return retangulo.área();
+    public int area() {
+        return retangulo.area();
     }
 }
