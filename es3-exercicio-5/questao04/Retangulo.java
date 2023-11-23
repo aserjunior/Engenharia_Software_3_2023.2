@@ -17,7 +17,7 @@ public class Retangulo {
         this.altura = altura;
     }
 
-    public int área() {
+    public int area() {
         return largura * altura;
     }
 }
