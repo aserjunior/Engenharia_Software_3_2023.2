@@ -1,0 +1,4 @@
+A imagem relacionada ao principio ISP é a de um cabo usb
+e varias portas usb com a legenda falando "Você quer que eu plug isso onde ?"
+A principal explicação para isso seria a de que, "coisas" descenessárias pois,
+se eu tenho apenas um cabo usb outras 3 portas não serão utilizadas.

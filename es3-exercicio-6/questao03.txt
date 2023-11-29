@@ -1,0 +1,3 @@
+Sim, é possível falar que o SRP e o ISP são correlacionados pois, os dois
+visam evitar o excesso de funções desnecessárias dessa forma deixando o 
+código mais limpo e legível o tornando mais prático.

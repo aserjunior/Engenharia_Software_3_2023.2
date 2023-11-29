@@ -1,0 +1,3 @@
+Acredito que possivelmente sim. Caso os outros métodos sejam bem implementados,
+as chances de que o sistema esteja mais flexivel e consequentemente o DIP pode
+já ter acontecido no código.

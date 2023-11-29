@@ -1,0 +1,3 @@
+Deve-se seguir a segregação das implementações por meio do uso de interfaces pois,
+dessa forma será evitado que a classe não implemente métodos que não irão servir 
+para o seu funcionamento normal.

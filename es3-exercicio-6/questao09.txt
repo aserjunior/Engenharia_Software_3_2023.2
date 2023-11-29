@@ -1,0 +1,5 @@
+Na minha opinião não acho que esse principio deva ser implementado primeiro
+pois, existem outros mais importantes e por muitas vezes no inicio do sistema
+muitas vezes são implementadas funcionalidades "simples" para a base do sistema.
+Após essa "base" ser feita normalmente é criado funções ou métodos mais complexos
+onde aí sim, o DIP seria mais util.

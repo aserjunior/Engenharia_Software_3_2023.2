@@ -1,0 +1,4 @@
+Programar para Interfaces no sentido de DIP seria buscar utilizar
+o DIP que seria a inversão de dependencia fazendo com que as classes
+abstratas tenham mais importancias em relação a implementaçôes concretas
+dessa forma tornando o sistema mais flexivel.

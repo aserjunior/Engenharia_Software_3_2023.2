@@ -1,0 +1,5 @@
+Basicamente essas frases falam o que o principio de ISP busca evitar
+já que, seguindo as boas práticas a dependencia de métodos ou a 
+implementação de intefaces que não serão usadas acabam diminuindo
+a qualidade do código e dessa forma tornando o sistema a longo prazo
+péssimo para possiveis revisões.
